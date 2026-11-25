@@ -1,0 +1,29 @@
+{
+  "name": "formularios-juntas-y-actas-de-sociedades",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Juntas, consejos y actas de sociedades de capital · España (171 formularios). Para la vida orgánica de las SL y SA: convocatorias de junta general, actas y listas de asistencia, certificaciones de acuerdos, representación y voto, sesiones y acuerdos del consejo de administración, y su elevación a público e inscripción. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-juntas-y-actas-de-sociedades",
+      "source": "./",
+      "description": "Juntas, consejos y actas de sociedades de capital · España (171 formularios). Para la vida orgánica de las SL y SA: convocatorias de junta general, actas y listas de asistencia, certificaciones de acuerdos, representación y voto, sesiones y acuerdos del consejo de administración, y su elevación a público e inscripción. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "mercantil",
+        "sociedades"
+      ]
+    }
+  ]
+}
